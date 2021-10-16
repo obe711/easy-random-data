@@ -1,0 +1,27 @@
+{
+  "name": "easy-random-data",
+  "version": "1.0.0",
+  "description": "A simple utility to generate random data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obe711/easy-random-data.git"
+  },
+  "keywords": [
+    "random",
+    "data",
+    "helper",
+    "javascript",
+    "node",
+    "react"
+  ],
+  "author": "Obediah Benjamin Klopfenstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obe711/easy-random-data/issues"
+  },
+  "homepage": "https://github.com/obe711/easy-random-data#readme"
+}
